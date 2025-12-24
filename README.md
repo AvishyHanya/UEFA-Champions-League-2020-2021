@@ -1,3 +1,5 @@
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AvishyHanya/UEFA-Champions-League-2020-2021/blob/main/UEFA%20Champions%20League%202020%202021%20.ipynb) - The project wabsite
+
 UEFA Champions League 2020-2021 Data Analysis
 
 📋 Overview
